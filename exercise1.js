@@ -51,7 +51,7 @@ console.log('Step 3 create a largestBalance function');
 
 
 // expected output 543
-console.log(largestBalance(customersObj));
+console.log(largestBalance(customersArr));
 
 ///////////////////// Step 04 /////////////////////
 console.log('Step 4 create a getAllCustomers function');
@@ -77,7 +77,7 @@ console.log('Step 4 create a getAllCustomers function');
 
 
 
-console.log(getAllCustomers(customersObj));
+console.log(getAllCustomers(customersArr));
 
 ///////////////////// Step 05 /////////////////////
 console.log('Step 5 add a new element to customerArr');
@@ -122,7 +122,7 @@ console.log('Step 6 add new customers to customerArr');
 // Shopkeeper Kisuke Urahara, customer 543 has a balance of $634637235.62
 // Captian Retsu Unohana, customer 5234 has a balance of $43234562.34
 // Princess Yoruichi Shihoin, customer 24356 has a balance of $5437458345734.94
-console.log(getAllCustomers(customersObj));
+console.log(getAllCustomers(customersArr));
 
 
 
